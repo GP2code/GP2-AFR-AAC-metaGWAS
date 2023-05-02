@@ -7,7 +7,10 @@
 **Last Updated:** April 2023 
 
 ## Summary
-This is the online repository for the manuscript titled ***"Genome-wide Association Identifies Novel Etiological Insights Associated with Parkinson’s Disease in African and African Admixed Populations"***. This study represents the first and largest genome-wide assessment of Parkinson’s disease in the African and African admixed populations.
+This is the online repository for the manuscript titled ***"Genome-wide Association Identifies Novel Etiological Insights Associated with Parkinson’s Disease in African and African Admixed Populations"***. This study represents the first and largest genome-wide assessment of Parkinson’s disease in the African and African admixed populations. 
+
+### Data Statement 
+All data was using release 5 GP2 data (access-controlled via single-sign on on amp-pd.org) and 23andMe GWAS summary statistics (available via collaboration with 23andMe).
 
 ### Helpful Links 
 - BioRxiv pre-print *(in preparation)*
