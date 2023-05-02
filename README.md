@@ -16,7 +16,7 @@ This is the online repository for the manuscript titled ***"Genome-wide Associat
 
 
 # Workflow Diagram 
-![Workflow Diagram](xx)
+![Workflow Diagram](https://github.com/GP2code/GP2-AFR-AAC-metaGWAS/blob/main/figures/F1_Workflow.png)
 
 
 
