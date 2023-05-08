@@ -13,7 +13,7 @@ This is the online repository for the manuscript titled ***"Genome-wide Associat
 All data was using release 5 GP2 data (access-controlled via single-sign on on amp-pd.org) and 23andMe GWAS summary statistics (available via collaboration with 23andMe).
 
 ### Helpful Links 
-- BioRxiv pre-print *(in preparation)*
+- [medRxiv pre-print (May 2023)](https://www.medrxiv.org/content/10.1101/2023.05.05.23289529v1)
 - [GP2 Website](https://gp2.org/)
     - [GP2 Cohort Dashboard](https://gp2.org/cohort-dashboard-advanced/)
 - [Introduction to GP2](https://movementdisorders.onlinelibrary.wiley.com/doi/10.1002/mds.28494)
