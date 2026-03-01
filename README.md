@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
-[![DOI](https://zenodo.org/badge/635483971.svg)](https://zenodo.org/badge/latestdoi/635483971)
+DOI: Pending
 
 **Last Updated:** March 2026
 
